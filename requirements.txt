@@ -1,0 +1,5 @@
+wandb
+matplotlib
+opencv-python
+tqdm
+tensorboard
